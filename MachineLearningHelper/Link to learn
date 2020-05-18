@@ -1,0 +1,33 @@
+https://stackabuse.com/solving-sequence-problems-with-lstm-in-keras-part-2/
+
+
+x    https://machinetalk.org/2019/02/01/text-generation-with-tensorflow/
+    https://machinetalk.org/2019/02/08/text-generation-with-pytorch/
+
+
+
+https://machinelearningmastery.com/encoder-decoder-long-short-term-memory-networks/
+
+Prepare sequence length input
+https://machinelearningmastery.com/data-preparation-variable-length-input-sequences-sequence-prediction/
+
+https://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
+
+
+- Understand Keras architecture
+1 https://adventuresinmachinelearning.com/keras-lstm-tutorial/
+
+
+
+x https://stackoverflow.com/questions/43034960/many-to-one-and-many-to-many-lstm-examples-in-keras
+x https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
+
+
+
+
+x https://machinelearningmastery.com/how-to-use-an-encoder-decoder-lstm-to-echo-sequences-of-random-integers/
+- How to implement seq2seq
+https://towardsdatascience.com/how-to-implement-seq2seq-lstm-model-in-keras-shortcutnlp-6f355f3e5639
+
+https://stackoverflow.com/questions/54457016/many-to-many-classification-with-keras-lstm
+

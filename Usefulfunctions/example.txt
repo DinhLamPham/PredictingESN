@@ -1,0 +1,1 @@
+The Rename dialogs let you perform the Rename refactoring for various entities such as classes, fields, methods, packages, etc. You can apply changes to the name occurrences selectively (in text and strings, and/or for text occurrences, etc.)

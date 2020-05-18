@@ -1,0 +1,7 @@
+1. Word -> One hot encoder
+2. ? WOrd to vector: https://code.google.com/archive/p/word2vec/
+https://adventuresinmachinelearning.com/word2vec-keras-tutorial/
+3. Understand KERAS architecture
+
+How to early stopping
+https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
