@@ -10,11 +10,11 @@ from LogHelper.Trace import IntListToTraceSequence
 from MachineLearningHelper.trainningHelper import prepare_os_environment, prepare_model, trainning, \
     one_hot_decode, lstm_get_data_from_trace
 import gc
-from tensorflow.keras import backend
+# from tensorflow.keras import backend
 
 
 def cleanup_memory():
-    backend.clear_session()
+    # backend.clear_session()
     gc.collect()
 
 
@@ -25,17 +25,17 @@ start_time = time()
 file = GVar.currentTrainingFile
 logFolder = file.replace(".txt", "")
 
-GVar.maxRepeatStep = 30
+GVar.maxRepeatStep = 30000
 
 inputTrainingPara0 = [1, "Performer"]  # ok
 inputTrainingPara1 = [1, "Activity"]  # ok
 inputTrainingPara2 = [2, "Activity"]  # ok
 inputTrainingPara3 = [2, "Performer"]  # ok
-inputTrainingPara4 = [2, "Activity_Performer"]  # ok
+# inputTrainingPara4 = [2, "Activity_Performer"]  # ok
 
 inputTrainingPara5 = [1.5, "1F_Activity_Performer"]  # ok
 
-setOfPara = [inputTrainingPara5]
+setOfPara = [inputTrainingPara0]
 for para in setOfPara:
     inputTrainingPara = para
     GVar.Init_New_Log(inputTrainingPara)
@@ -75,9 +75,9 @@ for para in setOfPara:
     SaveDictToFile(current_int_to_name_set,
                    str(Path(os.getcwd()).parent) + GetTrainedModelFolder(logFolder) + GVar.int_to_name_FileName)
 
-    for stepIn in range(2, 4):
+    for stepIn in [5, 6]:
         GVar.n_in = stepIn
-        for stepOut in range(2, 3):
+        for stepOut in [1, 2]:
             if stepIn < stepOut:
                 continue
             GVar.n_out = stepOut
@@ -102,6 +102,7 @@ for para in setOfPara:
 
             print(stepIn, stepOut, "Total time: ", hours, minutes, int(seconds))
 
+print('finished')
 # load the saved model
 # saved_model = load_model('best_model.h5')
 # # evaluate the model
@@ -110,30 +111,30 @@ for para in setOfPara:
 # print('Train: %.3f, Test: %.3f' % (train_acc, test_acc))
 
 # # # # # # # # # # # # # # # # # # # # # # TEST # # # # # # # # # # # # # # # # # # # # #
-lenTest = 0
-if GVar.feature == 1:
-    lenTest = len(test_log)
-if GVar.feature == 2:
-    lenTest = len(test_combineLog.getAllTraceWithAct())
-
-for i in range(lenTest):
-    if GVar.feature == 1:
-        trace = train_log[i]
-    if GVar.feature == 2:
-        trace = test_combineLog.get_Trace_I_With_Combine(i)
-
-    X, y = lstm_get_data_from_trace(trace, GVar.predicttype, GVar.feature, current_name_to_int_set, GVar.n_in,
-                                    GVar.n_out)
-    yhat = model.predict(X, batch_size=GVar.batch_size, verbose=0)
-
-    #     # decode all pairs
-    percent = [1 if one_hot_decode(y[i]) == one_hot_decode(yhat[i]) else 0 for i in range(len(X))]
-    print("Ti le du doan dung: ", sum(percent) / len(X))
-    for i in range(len(X)):
-        print("----------------------------------------------------------------")
-        print('Input:    ', IntListToTraceSequence(one_hot_decode(X[i]), current_int_to_name_set))
-        print('Expected: ', IntListToTraceSequence(one_hot_decode(y[i]), current_int_to_name_set))
-        print('Predicted:', IntListToTraceSequence(one_hot_decode(yhat[i]), current_int_to_name_set))
+# lenTest = 0
+# if GVar.feature == 1:
+#     lenTest = len(test_log)
+# if GVar.feature == 2:
+#     lenTest = len(test_combineLog.getAllTraceWithAct())
+#
+# for i in range(lenTest):
+#     if GVar.feature == 1:
+#         trace = train_log[i]
+#     if GVar.feature == 2:
+#         trace = test_combineLog.get_Trace_I_With_Combine(i)
+#
+#     X, y = lstm_get_data_from_trace(trace, GVar.predicttype, GVar.feature, current_name_to_int_set, GVar.n_in,
+#                                     GVar.n_out)
+#     yhat = model.predict(X, batch_size=GVar.batch_size, verbose=0)
+#
+#     #     # decode all pairs
+#     percent = [1 if one_hot_decode(y[i]) == one_hot_decode(yhat[i]) else 0 for i in range(len(X))]
+#     print("Ti le du doan dung: ", sum(percent) / len(X))
+#     for i in range(len(X)):
+#         print("----------------------------------------------------------------")
+#         print('Input:    ', IntListToTraceSequence(one_hot_decode(X[i]), current_int_to_name_set))
+#         print('Expected: ', IntListToTraceSequence(one_hot_decode(y[i]), current_int_to_name_set))
+#         print('Predicted:', IntListToTraceSequence(one_hot_decode(yhat[i]), current_int_to_name_set))
 
     # for x1, y1 in zip(X, y):
     #     current_in, current_out = np.reshape(x1, (-1, x1.shape[0], x1.shape[1])), np.reshape(y1, (

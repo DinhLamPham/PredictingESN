@@ -34,7 +34,7 @@ int_to_combine, combine_to_int = {}, {}
 name_to_int_FileName, int_to_name_FileName = "", ""
 
 trainedFolder = "TrainedModel"
-currentTrainingFile = r"1 BPI_2012_W_complete.txt"
+currentTrainingFile = r"4_BPI_Challenge_2018.txt"
 model_name = currentTrainingFile.replace(".txt", "")
 # LSTM Parameter
 maxRepeatStep = 0

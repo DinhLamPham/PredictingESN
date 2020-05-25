@@ -100,8 +100,8 @@ def EvaluateModel(_logFile, _feature, _predictType, _n_in, _n_out, _name_to_int_
     return thisModelAvaluateValue
 
 
-list_type = ['1F_A', '1F_P', '2F_A', '2F_P']
-listLog = ['0 Helpdesk', '1 BPI_2012_W_complete', '2 BPI_Challenge_2012']
+list_type = ['2F_A', '2F_P']
+listLog = ['3 BPI Challenge 2017']
 
 for log in listLog:
     ReadSavedLog(log + '.txt')

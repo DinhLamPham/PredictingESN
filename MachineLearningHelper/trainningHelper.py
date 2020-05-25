@@ -227,8 +227,8 @@ def trainning(model, train_log, _feature=1, _current_name_to_int_set={}):
             return accuracy_list, loss_list
 
         print(
-            "------------------------------------------------trace (%s / %s) ------ Count patient trace: %s"
-            " --- currentMax: %s" % (i, totalTrace, countEpoch, maxVal_acc))
+            "-predict %s --feature %s --- stepIn %s ---- stepOut %s ------------trace (%s / %s) ------ Count patient trace: %s"
+            " --- currentMax: %s" % (GVar.predicttype, _feature, GVar.n_in, GVar.n_out, i, totalTrace, countEpoch, maxVal_acc))
         model.reset_states()
 
     SaveModel(model, accuracy_list)
