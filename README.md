@@ -1,4 +1,4 @@
-# Predictive process-aware enterprise social network
+# Prediction of Process-Aware Enterprise Social Networks 
 This repository is apart of the paper entitled "Prediction of Process-Aware Enterprise Social Networks and its Experiments Using Long Short-Term Memory Neural Network Models".
 
 Summary:
