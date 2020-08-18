@@ -1,5 +1,4 @@
 # PredictingESN
-Predict Process-Aware Enterprise Social Network with LSTM model
 This repository is apart from the paper entitled "Prediction of Process-Aware Enterprise Social Networks and its Experiments Using Long Short-Term Memory Neural Network Models".
 
 Summary:
