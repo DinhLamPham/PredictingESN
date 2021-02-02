@@ -50,7 +50,7 @@ def LoadModel(logFile, stepIn):
     return _saveModel, name_to_int_set, int_to_name_set
 
 
-def PredictPer(logFile, _saveModel, actList, stepIn, name_to_int_set, int_to_name_set, perList):
+def PredictPer(_saveModel, actList, stepIn, name_to_int_set, int_to_name_set, perList):
     feature, stepOut, predictType = "1.5", "1", "Performer"
     stepIn, stepOut, feature = int(stepIn), int(stepOut), float(feature)
 

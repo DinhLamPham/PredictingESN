@@ -35,7 +35,7 @@ inputTrainingPara3 = [2, "Performer"]  # ok
 
 inputTrainingPara5 = [1.5, "1F_Activity_Performer"]  # ok
 
-setOfPara = [inputTrainingPara0]
+setOfPara = [inputTrainingPara1, inputTrainingPara5]
 for para in setOfPara:
     inputTrainingPara = para
     GVar.Init_New_Log(inputTrainingPara)
@@ -75,9 +75,9 @@ for para in setOfPara:
     SaveDictToFile(current_int_to_name_set,
                    str(Path(os.getcwd()).parent) + GetTrainedModelFolder(logFolder) + GVar.int_to_name_FileName)
 
-    for stepIn in [5, 6]:
+    for stepIn in [6]:
         GVar.n_in = stepIn
-        for stepOut in [1, 2]:
+        for stepOut in [1]:
             if stepIn < stepOut:
                 continue
             GVar.n_out = stepOut
@@ -122,11 +122,11 @@ print('finished')
 #         trace = train_log[i]
 #     if GVar.feature == 2:
 #         trace = test_combineLog.get_Trace_I_With_Combine(i)
-#
+
 #     X, y = lstm_get_data_from_trace(trace, GVar.predicttype, GVar.feature, current_name_to_int_set, GVar.n_in,
 #                                     GVar.n_out)
 #     yhat = model.predict(X, batch_size=GVar.batch_size, verbose=0)
-#
+# #
 #     #     # decode all pairs
 #     percent = [1 if one_hot_decode(y[i]) == one_hot_decode(yhat[i]) else 0 for i in range(len(X))]
 #     print("Ti le du doan dung: ", sum(percent) / len(X))

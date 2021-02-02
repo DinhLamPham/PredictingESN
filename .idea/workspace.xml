@@ -20,9 +20,156 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e1a7f13-339c-4029-a498-25f5fd3398e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace (Lam Pham Dinh's conflicted copy 2020-05-20).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace (Lam Pham Dinh's conflicted copy 2020-05-21).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/1 InternationalDeclarations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/3 BPI Challenge 2017.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/4_BPI_Challenge_2018.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/Temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonHelper/Common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonHelper/GVar.py" beforeDir="false" afterPath="$PROJECT_DIR$/CommonHelper/GVar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningHelper/trainningHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningHelper/trainningHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/1 BPI_2012_W_complete.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/EvaluateAccuracy (Lam Pham Dinh's conflicted copy 2020-05-21).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/PredictESN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/PredictESN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/PredictPerWithAct.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/PredictPerWithAct.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main/Train.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/0 Helpdesk/sqlcmd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModel/0 Helpdesk/sqlcmd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity1_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity2_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity2_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity3_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity3_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity4_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity4_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity5_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity5_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity6_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations1feature_Activity6_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity1_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity2_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity2_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity3_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity3_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity4_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity4_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity5_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity5_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity6_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_1feature_Activity6_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_predict_Activity_1feature_IntToName.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1 InternationalDeclarations_predict_Activity_1feature_NameToInt.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_A/1F_A_validation.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer1_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer2_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer2_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer3_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer3_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer4_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer4_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer5_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer5_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer6_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations1feature_Performer6_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer1_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer2_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer2_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer3_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer3_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer4_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer4_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer5_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer5_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer6_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_1feature_Performer6_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_predict_Performer_1feature_IntToName.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1 InternationalDeclarations_predict_Performer_1feature_NameToInt.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/1F_P/1F_P_validation.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity1_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity2_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity2_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity3_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity3_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity4_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity4_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity5_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity5_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity6_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations2feature_Activity6_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity1_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity2_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity2_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity3_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity3_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity4_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity4_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity5_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity5_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity6_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_2feature_Activity6_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_predict_Activity_2feature_IntToName.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/1 InternationalDeclarations_predict_Activity_2feature_NameToInt.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_A/2F_A_validation.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer1_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer2_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer2_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer3_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer3_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer4_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer4_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer5_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer5_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer6_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations2feature_Performer6_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer1_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer2_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer2_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer3_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer3_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer4_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer4_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer5_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer5_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer6_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_2feature_Performer6_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_predict_Performer_2feature_IntToName.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/1 InternationalDeclarations_predict_Performer_2feature_NameToInt.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/2F_P/2F_P_validation.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/1 InternationalDeclarations/sqlcmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/2 BPI_Challenge_2012/sqlcmd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModel/2 BPI_Challenge_2012/sqlcmd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/3 BPI Challenge 2017/sqlcmd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModel/3 BPI Challenge 2017/sqlcmd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer1_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer2_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer2_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer3_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer3_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer4_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer4_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer5_1.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_20181feature_Performer5_2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer1_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer2_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer2_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer3_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer3_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer4_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer4_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer5_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_1feature_Performer5_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_predict_Performer_1feature_IntToName.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/4_BPI_Challenge_2018_predict_Performer_1feature_NameToInt.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModel/4_BPI_Challenge_2018/sqlcmd.txt" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +197,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1Y0OR4F2Z6JuNjsmrK7jME7XAR9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -65,9 +214,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-bash.exe" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -92,33 +241,26 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.EvaluateAccuracy">
-    <configuration name="CompareAccuracy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Temp">
+    <configuration name="EvaluateAccuracy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/CompareAccuracy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EvaluateAccuracy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -148,6 +290,47 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/Listener.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PredictESN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/PredictESN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/Temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,35 +383,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boxplot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice/boxplot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Temp" />
         <item itemvalue="Python.EvaluateAccuracy" />
-        <item itemvalue="Python.Train" />
-        <item itemvalue="Python.CompareAccuracy" />
-        <item itemvalue="Python.boxplot" />
         <item itemvalue="Python.Listener" />
+        <item itemvalue="Python.PredictESN" />
+        <item itemvalue="Python.Train" />
       </list>
     </recent_temporary>
   </component>
@@ -327,394 +488,267 @@
       <workItem from="1590136551236" duration="3961000" />
       <workItem from="1590213570413" duration="3546000" />
       <workItem from="1590308226720" duration="1292000" />
+      <workItem from="1590641618850" duration="19000" />
+      <workItem from="1590642413665" duration="7113000" />
+      <workItem from="1590706067066" duration="2528000" />
+      <workItem from="1591235828254" duration="608000" />
+      <workItem from="1591321718868" duration="379000" />
+      <workItem from="1593131427137" duration="1261000" />
+      <workItem from="1593146018221" duration="886000" />
+      <workItem from="1593580164624" duration="20000" />
+      <workItem from="1593756493999" duration="1354000" />
+      <workItem from="1594098186176" duration="18000" />
+      <workItem from="1594191349962" duration="613000" />
+      <workItem from="1594955265809" duration="902000" />
+      <workItem from="1595209328576" duration="10000" />
+      <workItem from="1595918586372" duration="668000" />
+      <workItem from="1599702302208" duration="1156000" />
+      <workItem from="1599706717944" duration="55000" />
+      <workItem from="1600063100866" duration="1687000" />
+      <workItem from="1600235810897" duration="7000" />
+      <workItem from="1600590722580" duration="1287000" />
+      <workItem from="1600665527222" duration="615000" />
+      <workItem from="1600846402436" duration="2519000" />
+      <workItem from="1600908758303" duration="7071000" />
+      <workItem from="1600925143021" duration="7842000" />
+      <workItem from="1601001212187" duration="1416000" />
+      <workItem from="1601077312544" duration="7000" />
+      <workItem from="1601079154672" duration="3704000" />
+      <workItem from="1601254052754" duration="18000" />
+      <workItem from="1601787060471" duration="1635000" />
+      <workItem from="1602292578501" duration="2008000" />
+      <workItem from="1602306419094" duration="29000" />
+      <workItem from="1602311567041" duration="5116000" />
+      <workItem from="1602392200724" duration="60000" />
+      <workItem from="1602392268045" duration="608000" />
+      <workItem from="1602394655256" duration="1578000" />
+      <workItem from="1602463738806" duration="7921000" />
+      <workItem from="1602551728543" duration="596000" />
+      <workItem from="1604282970892" duration="538000" />
+      <workItem from="1605148405844" duration="1080000" />
+      <workItem from="1606455417428" duration="598000" />
+      <workItem from="1606972480929" duration="3174000" />
+      <workItem from="1607044093863" duration="596000" />
+      <workItem from="1608617670066" duration="614000" />
+      <workItem from="1608706430610" duration="37000" />
+      <workItem from="1611489391913" duration="913000" />
+      <workItem from="1612247896810" duration="2185000" />
+      <workItem from="1612251214333" duration="436000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="102" key="#Inspections" timestamp="1583108461650">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state x="320" y="102" key="#Inspections/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583108461650" />
-    <state x="397" y="226" key="#Notifications" timestamp="1590219343327">
-      <screen x="0" y="0" width="1024" height="728" />
-    </state>
-    <state x="397" y="226" key="#Notifications/0.0.1024.728@0.0.1024.728" timestamp="1590219343327" />
-    <state x="428" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583132742615">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="428" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1583132742615" />
-    <state x="351" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583198428045">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="351" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.827/-1920.23.1920.1057@0.23.1440.827" timestamp="1583198428045" />
-    <state x="483" y="137" key="#xdebugger.evaluate" timestamp="1583973664857">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="483" y="137" key="#xdebugger.evaluate/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1583973664857" />
-    <state width="1508" height="466" key="DebuggerActiveHint" timestamp="1589870310128">
-      <screen x="0" y="23" width="1920" height="982" />
-    </state>
-    <state width="1131" height="382" key="DebuggerActiveHint/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585205411812" />
-    <state width="1508" height="500" key="DebuggerActiveHint/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1583976079798" />
-    <state width="1296" height="383" key="DebuggerActiveHint/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157513095" />
-    <state width="1131" height="384" key="DebuggerActiveHint/0.23.1440.811@0.23.1440.811" timestamp="1586749473386" />
-    <state width="1131" height="384" key="DebuggerActiveHint/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223537661" />
-    <state width="1131" height="385" key="DebuggerActiveHint/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225092436" />
-    <state width="1131" height="390" key="DebuggerActiveHint/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583202830855" />
-    <state width="1508" height="465" key="DebuggerActiveHint/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589784914801" />
-    <state width="1508" height="466" key="DebuggerActiveHint/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870310128" />
-    <state width="1507" height="466" key="DebuggerActiveHint/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582531769822" />
-    <state width="1878" height="378" key="GridCell.Tab.0.bottom" timestamp="1590222402365">
-      <screen x="0" y="23" width="1920" height="986" />
-    </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590210819047" />
-    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585217583387" />
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585986497562" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1586161007897" />
-    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585038104916" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157941796" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1586749414758" />
-    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585387136554" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223593615" />
-    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1583758889504" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225364013" />
-    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1584104830987" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583908608849" />
-    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584179142759" />
-    <state width="1398" height="281" key="GridCell.Tab.0.bottom/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1583918008984" />
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1582081505437" />
-    <state width="1398" height="283" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1582271390904" />
-    <state width="1398" height="263" key="GridCell.Tab.0.bottom/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583203454458" />
-    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1583147330747" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583051327656" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1583050543432" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583911578721" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.982@0.23.1440.877" timestamp="1583912063953" />
-    <state width="1878" height="252" key="GridCell.Tab.0.bottom/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586756189348" />
-    <state width="939" height="241" key="GridCell.Tab.0.bottom/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589786081412" />
-    <state width="1666" height="240" key="GridCell.Tab.0.bottom/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870428517" />
-    <state width="1878" height="394" key="GridCell.Tab.0.bottom/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589182914486" />
-    <state width="1878" height="378" key="GridCell.Tab.0.bottom/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" timestamp="1590222402365" />
-    <state width="1878" height="283" key="GridCell.Tab.0.bottom/0.23.1920.986/1920.23.1440.877@0.23.1920.986" timestamp="1582276929635" />
-    <state width="1878" height="329" key="GridCell.Tab.0.bottom/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582534773418" />
-    <state width="1878" height="378" key="GridCell.Tab.0.center" timestamp="1590222402364">
-      <screen x="0" y="23" width="1920" height="986" />
-    </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590210819047" />
-    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585217583387" />
-    <state width="1398" height="240" key="GridCell.Tab.0.center/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585986497562" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1586161007896" />
-    <state width="1398" height="191" key="GridCell.Tab.0.center/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585038104915" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157941794" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1586749414758" />
-    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585387136553" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223593614" />
-    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1583758889504" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225364013" />
-    <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1584104830987" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583908608848" />
-    <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1584179142759" />
-    <state width="1398" height="281" key="GridCell.Tab.0.center/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1583918008984" />
-    <state width="1398" height="226" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1582081505436" />
-    <state width="1398" height="283" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1582271390903" />
-    <state width="1398" height="263" key="GridCell.Tab.0.center/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583203454457" />
-    <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1583147330746" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583051327655" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1583050543431" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583911578721" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.982@0.23.1440.877" timestamp="1583912063952" />
-    <state width="1878" height="252" key="GridCell.Tab.0.center/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586756189347" />
-    <state width="939" height="241" key="GridCell.Tab.0.center/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589786081411" />
-    <state width="1666" height="240" key="GridCell.Tab.0.center/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870428516" />
-    <state width="1878" height="394" key="GridCell.Tab.0.center/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589182914485" />
-    <state width="1878" height="378" key="GridCell.Tab.0.center/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" timestamp="1590222402364" />
-    <state width="1878" height="283" key="GridCell.Tab.0.center/0.23.1920.986/1920.23.1440.877@0.23.1920.986" timestamp="1582276929634" />
-    <state width="1878" height="329" key="GridCell.Tab.0.center/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582534773418" />
-    <state width="1878" height="378" key="GridCell.Tab.0.left" timestamp="1590222402363">
-      <screen x="0" y="23" width="1920" height="986" />
-    </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590210819047" />
-    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585217583386" />
-    <state width="1398" height="240" key="GridCell.Tab.0.left/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585986497561" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1586161007896" />
-    <state width="1398" height="191" key="GridCell.Tab.0.left/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585038104914" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157941794" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1586749414757" />
-    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585387136553" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223593613" />
-    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1583758889504" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225364012" />
-    <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1584104830986" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583908608847" />
-    <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1584179142758" />
-    <state width="1398" height="281" key="GridCell.Tab.0.left/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1583918008983" />
-    <state width="1398" height="226" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1582081505436" />
-    <state width="1398" height="283" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1582271390902" />
-    <state width="1398" height="263" key="GridCell.Tab.0.left/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583203454456" />
-    <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1583147330746" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583051327654" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1583050543431" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583911578720" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.982@0.23.1440.877" timestamp="1583912063952" />
-    <state width="1878" height="252" key="GridCell.Tab.0.left/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586756189343" />
-    <state width="939" height="241" key="GridCell.Tab.0.left/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589786081411" />
-    <state width="1666" height="240" key="GridCell.Tab.0.left/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870428515" />
-    <state width="1878" height="394" key="GridCell.Tab.0.left/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589182914484" />
-    <state width="1878" height="378" key="GridCell.Tab.0.left/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" timestamp="1590222402363" />
-    <state width="1878" height="283" key="GridCell.Tab.0.left/0.23.1920.986/1920.23.1440.877@0.23.1920.986" timestamp="1582276929634" />
-    <state width="1878" height="329" key="GridCell.Tab.0.left/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582534773418" />
-    <state width="1878" height="378" key="GridCell.Tab.0.right" timestamp="1590222402364">
-      <screen x="0" y="23" width="1920" height="986" />
-    </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590210819047" />
-    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585217583387" />
-    <state width="1398" height="240" key="GridCell.Tab.0.right/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585986497562" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1586161007897" />
-    <state width="1398" height="191" key="GridCell.Tab.0.right/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585038104915" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157941795" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1586749414758" />
-    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585387136554" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223593614" />
-    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1583758889504" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225364013" />
-    <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1584104830987" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583908608848" />
-    <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1584179142759" />
-    <state width="1398" height="281" key="GridCell.Tab.0.right/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1583918008984" />
-    <state width="1398" height="226" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1582081505437" />
-    <state width="1398" height="283" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1582271390903" />
-    <state width="1398" height="263" key="GridCell.Tab.0.right/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583203454458" />
-    <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1583147330746" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583051327655" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1583050543432" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583911578721" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.982@0.23.1440.877" timestamp="1583912063953" />
-    <state width="1878" height="252" key="GridCell.Tab.0.right/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586756189347" />
-    <state width="939" height="241" key="GridCell.Tab.0.right/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589786081411" />
-    <state width="1666" height="240" key="GridCell.Tab.0.right/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870428517" />
-    <state width="1878" height="394" key="GridCell.Tab.0.right/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589182914485" />
-    <state width="1878" height="378" key="GridCell.Tab.0.right/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" timestamp="1590222402364" />
-    <state width="1878" height="283" key="GridCell.Tab.0.right/0.23.1920.986/1920.23.1440.877@0.23.1920.986" timestamp="1582276929634" />
-    <state width="1878" height="329" key="GridCell.Tab.0.right/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582534773418" />
-    <state width="1878" height="378" key="GridCell.Tab.1.bottom" timestamp="1590222402366">
-      <screen x="0" y="23" width="1920" height="986" />
-    </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590210819047" />
-    <state width="1398" height="183" key="GridCell.Tab.1.bottom/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585217583388" />
-    <state width="1398" height="240" key="GridCell.Tab.1.bottom/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585986497564" />
-    <state width="1398" height="210" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1586161007898" />
-    <state width="1398" height="191" key="GridCell.Tab.1.bottom/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585038104917" />
-    <state width="1398" height="210" key="GridCell.Tab.1.bottom/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157941797" />
-    <state width="1398" height="129" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1586749419189" />
-    <state width="1398" height="183" key="GridCell.Tab.1.bottom/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585387136556" />
-    <state width="1398" height="210" key="GridCell.Tab.1.bottom/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223593616" />
-    <state width="1398" height="219" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1583758889505" />
-    <state width="1398" height="210" key="GridCell.Tab.1.bottom/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225364014" />
-    <state width="1398" height="189" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1584104830988" />
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583908663312" />
-    <state width="1398" height="189" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584179142761" />
-    <state width="1398" height="281" key="GridCell.Tab.1.bottom/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1583918008985" />
-    <state width="1398" height="263" key="GridCell.Tab.1.bottom/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583203454460" />
-    <state width="1398" height="168" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1583147330747" />
-    <state width="1398" height="165" key="GridCell.Tab.1.bottom/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583051327657" />
-    <state width="1398" height="165" key="GridCell.Tab.1.bottom/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1583050543434" />
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583911578670" />
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.23.1920.982@0.23.1440.877" timestamp="1583912105046" />
-    <state width="1878" height="252" key="GridCell.Tab.1.bottom/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586756189350" />
-    <state width="939" height="241" key="GridCell.Tab.1.bottom/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589786081347" />
-    <state width="1666" height="240" key="GridCell.Tab.1.bottom/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870428519" />
-    <state width="1878" height="394" key="GridCell.Tab.1.bottom/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589182914488" />
-    <state width="1878" height="378" key="GridCell.Tab.1.bottom/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" timestamp="1590222402366" />
-    <state width="1878" height="329" key="GridCell.Tab.1.bottom/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582534773419" />
-    <state width="1878" height="378" key="GridCell.Tab.1.center" timestamp="1590222402366">
-      <screen x="0" y="23" width="1920" height="986" />
-    </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1590210819047" />
-    <state width="1398" height="183" key="GridCell.Tab.1.center/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585217583388" />
-    <state width="1398" height="240" key="GridCell.Tab.1.center/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585986497563" />
-    <state width="1398" height="210" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1586161007897" />
-    <state width="1398" height="191" key="GridCell.Tab.1.center/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585038104917" />
-    <state width="1398" height="210" key="GridCell.Tab.1.center/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157941796" />
-    <state width="1398" height="129" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1586749419188" />
-    <state width="1398" height="183" key="GridCell.Tab.1.center/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585387136555" />
-    <state width="1398" height="210" key="GridCell.Tab.1.center/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223593616" />
-    <state width="1398" height="219" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1583758889505" />
-    <state width="1398" height="210" key="GridCell.Tab.1.center/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225364014" />
-    <state width="1398" height="189" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1584104830988" />
-    <state width="1398" height="251" key="GridCell.Tab.1.center/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583908663311" />
-    <state width="1398" height="189" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1584179142760" />
-    <state width="1398" height="281" key="GridCell.Tab.1.center/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1583918008984" />
-    <state width="1398" height="263" key="GridCell.Tab.1.center/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583203454459" />
-    <state width="1398" height="168" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1583147330747" />
-    <state width="1398" height="165" key="GridCell.Tab.1.center/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583051327656" />
-    <state width="1398" height="165" key="GridCell.Tab.1.center/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1583050543433" />
-    <state width="1398" height="251" key="GridCell.Tab.1.center/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583911578670" />
-    <state width="1398" height="251" key="GridCell.Tab.1.center/0.23.1440.877/-1920.23.1920.982@0.23.1440.877" timestamp="1583912105045" />
-    <state width="1878" height="252" key="GridCell.Tab.1.center/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586756189349" />
-    <state width="939" height="241" key="GridCell.Tab.1.center/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589786081347" />
-    <state width="1666" height="240" key="GridCell.Tab.1.center/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870428518" />
-    <state width="1878" height="394" key="GridCell.Tab.1.center/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589182914487" />
-    <state width="1878" height="378" key="GridCell.Tab.1.center/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" timestamp="1590222402366" />
-    <state width="1878" height="329" key="GridCell.Tab.1.center/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582534773419" />
-    <state width="1878" height="378" key="GridCell.Tab.1.left" timestamp="1590222402365">
-      <screen x="0" y="23" width="1920" height="986" />
-    </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1590210819047" />
-    <state width="1398" height="183" key="GridCell.Tab.1.left/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585217583387" />
-    <state width="1398" height="240" key="GridCell.Tab.1.left/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585986497563" />
-    <state width="1398" height="210" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1586161007897" />
-    <state width="1398" height="191" key="GridCell.Tab.1.left/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585038104916" />
-    <state width="1398" height="210" key="GridCell.Tab.1.left/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157941796" />
-    <state width="1398" height="129" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1586749419188" />
-    <state width="1398" height="183" key="GridCell.Tab.1.left/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585387136555" />
-    <state width="1398" height="210" key="GridCell.Tab.1.left/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223593615" />
-    <state width="1398" height="219" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1583758889505" />
-    <state width="1398" height="210" key="GridCell.Tab.1.left/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225364013" />
-    <state width="1398" height="189" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1584104830988" />
-    <state width="1398" height="251" key="GridCell.Tab.1.left/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583908663311" />
-    <state width="1398" height="189" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1584179142760" />
-    <state width="1398" height="281" key="GridCell.Tab.1.left/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1583918008984" />
-    <state width="1398" height="263" key="GridCell.Tab.1.left/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583203454459" />
-    <state width="1398" height="168" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1583147330747" />
-    <state width="1398" height="165" key="GridCell.Tab.1.left/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583051327656" />
-    <state width="1398" height="165" key="GridCell.Tab.1.left/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1583050543433" />
-    <state width="1398" height="251" key="GridCell.Tab.1.left/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583911578670" />
-    <state width="1398" height="251" key="GridCell.Tab.1.left/0.23.1440.877/-1920.23.1920.982@0.23.1440.877" timestamp="1583912105044" />
-    <state width="1878" height="252" key="GridCell.Tab.1.left/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586756189349" />
-    <state width="939" height="241" key="GridCell.Tab.1.left/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589786081347" />
-    <state width="1666" height="240" key="GridCell.Tab.1.left/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870428517" />
-    <state width="1878" height="394" key="GridCell.Tab.1.left/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589182914486" />
-    <state width="1878" height="378" key="GridCell.Tab.1.left/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" timestamp="1590222402365" />
-    <state width="1878" height="329" key="GridCell.Tab.1.left/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582534773419" />
-    <state width="1878" height="378" key="GridCell.Tab.1.right" timestamp="1590222402366">
-      <screen x="0" y="23" width="1920" height="986" />
-    </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1590210819047" />
-    <state width="1398" height="183" key="GridCell.Tab.1.right/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585217583388" />
-    <state width="1398" height="240" key="GridCell.Tab.1.right/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585986497563" />
-    <state width="1398" height="210" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1586161007898" />
-    <state width="1398" height="191" key="GridCell.Tab.1.right/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585038104917" />
-    <state width="1398" height="210" key="GridCell.Tab.1.right/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157941796" />
-    <state width="1398" height="129" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1586749419189" />
-    <state width="1398" height="183" key="GridCell.Tab.1.right/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585387136556" />
-    <state width="1398" height="210" key="GridCell.Tab.1.right/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586223593616" />
-    <state width="1398" height="219" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1583758889505" />
-    <state width="1398" height="210" key="GridCell.Tab.1.right/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1586225364014" />
-    <state width="1398" height="189" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1584104830988" />
-    <state width="1398" height="251" key="GridCell.Tab.1.right/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583908663312" />
-    <state width="1398" height="189" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1584179142760" />
-    <state width="1398" height="281" key="GridCell.Tab.1.right/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1583918008985" />
-    <state width="1398" height="263" key="GridCell.Tab.1.right/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583203454459" />
-    <state width="1398" height="168" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1583147330747" />
-    <state width="1398" height="165" key="GridCell.Tab.1.right/0.23.1440.829/-1920.23.1920.1057@0.23.1440.829" timestamp="1583051327657" />
-    <state width="1398" height="165" key="GridCell.Tab.1.right/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1583050543434" />
-    <state width="1398" height="251" key="GridCell.Tab.1.right/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583911578670" />
-    <state width="1398" height="251" key="GridCell.Tab.1.right/0.23.1440.877/-1920.23.1920.982@0.23.1440.877" timestamp="1583912105046" />
-    <state width="1878" height="252" key="GridCell.Tab.1.right/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586756189349" />
-    <state width="939" height="241" key="GridCell.Tab.1.right/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589786081347" />
-    <state width="1666" height="240" key="GridCell.Tab.1.right/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589870428518" />
-    <state width="1878" height="394" key="GridCell.Tab.1.right/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589182914487" />
-    <state width="1878" height="378" key="GridCell.Tab.1.right/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" timestamp="1590222402366" />
-    <state width="1878" height="329" key="GridCell.Tab.1.right/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582534773419" />
-    <state x="374" y="103" key="SettingsEditor" timestamp="1590136653517">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="374" y="103" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590136653517" />
-    <state x="328" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1583758779900" />
-    <state x="-1483" y="23" key="SettingsEditor/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585393453951" />
-    <state x="328" y="23" key="SettingsEditor/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1584430868719" />
-    <state x="328" y="23" key="SettingsEditor/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583901147942" />
-    <state x="328" y="23" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1584178991577" />
-    <state x="328" y="23" key="SettingsEditor/0.23.1440.823/-1920.23.1920.1057@0.23.1440.823" timestamp="1584691111309" />
-    <state x="328" y="23" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1582076198103" />
-    <state x="328" y="23" key="SettingsEditor/0.23.1440.827/-1920.23.1920.1057@0.23.1440.827" timestamp="1583199272302" />
-    <state x="437" y="23" key="SettingsEditor/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586758653034" />
-    <state x="449" y="141" key="SettingsEditor/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589781161971" />
-    <state x="449" y="141" key="SettingsEditor/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589179353809" />
-    <state x="449" y="141" key="SettingsEditor/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" timestamp="1589868717061" />
-    <state width="668" height="532" key="SwitcherDM" timestamp="1589767117149">
-      <screen x="0" y="23" width="1920" height="980" />
-    </state>
-    <state width="501" height="439" key="SwitcherDM/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1585205417406" />
-    <state width="501" height="440" key="SwitcherDM/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586157315696" />
-    <state width="501" height="440" key="SwitcherDM/0.23.1440.811@0.23.1440.811" timestamp="1584012235910" />
-    <state width="501" height="440" key="SwitcherDM/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586221539880" />
-    <state width="500" height="445" key="SwitcherDM/0.23.1440.823@0.23.1440.823" timestamp="1582080885854" />
-    <state width="668" height="532" key="SwitcherDM/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589767117149" />
-    <state width="667" height="535" key="SwitcherDM/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582531951887" />
-    <state width="720" height="398" key="XDebugger.FullValuePopup" timestamp="1586156244805">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state width="720" height="397" key="XDebugger.FullValuePopup/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1584076936460" />
-    <state width="720" height="398" key="XDebugger.FullValuePopup/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586156244805" />
-    <state width="720" height="400" key="XDebugger.FullValuePopup/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583906537161" />
-    <state x="-1420" y="225" width="1920" height="981" key="com.intellij.ide.util.TipDialog" timestamp="1589765764577">
-      <screen x="-1440" y="23" width="1440" height="877" />
-    </state>
-    <state x="20" y="211" key="com.intellij.ide.util.TipDialog/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1586150194731" />
-    <state x="20" y="211" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1583410277589" />
-    <state x="-1893" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585378464821" />
-    <state x="20" y="212" key="com.intellij.ide.util.TipDialog/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1586220820697" />
-    <state x="20" y="212" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1586749393075" />
-    <state x="20" y="212" key="com.intellij.ide.util.TipDialog/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1585730596538" />
-    <state x="20" y="212" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1586270353143" />
-    <state x="-1893" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.814/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585267640706" />
-    <state x="20" y="213" key="com.intellij.ide.util.TipDialog/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1584426611302" />
-    <state x="20" y="213" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1584179310802" />
-    <state x="20" y="215" key="com.intellij.ide.util.TipDialog/0.23.1440.823/-1920.23.1920.1057@0.23.1440.823" timestamp="1584690459241" />
-    <state x="20" y="215" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1582076345757" />
-    <state x="20" y="215" key="com.intellij.ide.util.TipDialog/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583202317331" />
-    <state x="20" y="215" key="com.intellij.ide.util.TipDialog/0.23.1440.827/-1920.23.1920.1057@0.23.1440.827" timestamp="1583106917373" />
-    <state x="20" y="215" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1583132705315" />
-    <state x="27" y="248" key="com.intellij.ide.util.TipDialog/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1586996577561" />
-    <state x="27" y="251" key="com.intellij.ide.util.TipDialog/0.23.1920.977/1920.23.1440.877@0.23.1920.977" timestamp="1586758603921" />
-    <state x="27" y="251" key="com.intellij.ide.util.TipDialog/0.23.1920.978/1920.23.1440.877@0.23.1920.978" timestamp="1586824331859" />
-    <state x="-1420" y="225" key="com.intellij.ide.util.TipDialog/0.23.1920.980/-1440.23.1440.877@-1440.23.1440.877" timestamp="1588901164596" />
-    <state x="-1420" y="225" key="com.intellij.ide.util.TipDialog/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589765764577" />
-    <state x="0" y="23" width="1920" height="981" key="com.intellij.ide.util.TipDialog/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" timestamp="1589178832845" />
-    <state x="27" y="251" key="com.intellij.ide.util.TipDialog/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1586828210922" />
-    <state x="27" y="254" key="com.intellij.ide.util.TipDialog/0.23.1920.994/1920.23.1440.877@0.23.1920.994" timestamp="1583029467611" />
-    <state x="27" y="254" key="com.intellij.ide.util.TipDialog/1920.23.1440.877/0.23.1920.995@0.23.1920.995" timestamp="1583038408943" />
-    <state x="629" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589337204704">
-      <screen x="0" y="23" width="1920" height="980" />
-    </state>
-    <state x="472" y="75" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1584076976416" />
-    <state x="472" y="78" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" timestamp="1584091928340" />
-    <state x="472" y="78" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.811@0.23.1440.811" timestamp="1584021632955" />
-    <state x="472" y="83" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1583904318500" />
-    <state x="472" y="87" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877/-1920.23.1920.980@0.23.1440.877" timestamp="1583910784996" />
-    <state x="629" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589337204704" />
-    <state x="629" y="173" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.988/1920.23.1440.877@0.23.1920.988" timestamp="1582524594632" />
-    <state x="497" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589784172681">
-      <screen x="0" y="23" width="1920" height="980" />
-    </state>
-    <state x="497" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" timestamp="1589784172681" />
-    <state x="378" y="62" width="797" height="729" key="find.popup" timestamp="1586221898515">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="378" y="62" width="797" height="729" key="find.popup/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" timestamp="1586221898515" />
-    <state x="378" y="62" width="683" height="731" key="find.popup/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" timestamp="1584145606129" />
-    <state x="385" y="171" width="670" height="667" key="search.everywhere.popup" timestamp="1584105423252">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state x="385" y="170" width="670" height="662" key="search.everywhere.popup/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" timestamp="1584076887249" />
-    <state x="385" y="171" width="670" height="667" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1584105423252" />
-    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826/-1920.23.1920.1057@0.23.1440.826" timestamp="1583192333726" />
+    <state x="397" y="226" key="#Notifications" />
+    <state x="397" y="226" key="#Notifications/0.0.1024.728@0.0.1024.728" />
+    <state x="789" y="410" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" />
+    <state x="789" y="410" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1508" height="466" key="DebuggerActiveHint" />
+    <state width="1131" height="382" key="DebuggerActiveHint/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1296" height="383" key="DebuggerActiveHint/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1131" height="384" key="DebuggerActiveHint/0.23.1440.811@0.23.1440.811" />
+    <state width="1131" height="384" key="DebuggerActiveHint/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1131" height="385" key="DebuggerActiveHint/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1508" height="465" key="DebuggerActiveHint/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1508" height="466" key="DebuggerActiveHint/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" />
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1878" height="252" key="GridCell.Tab.0.bottom/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state width="939" height="241" key="GridCell.Tab.0.bottom/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1920.988/-1440.23.1440.877@0.23.1920.988" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1878" height="252" key="GridCell.Tab.0.center/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state width="939" height="241" key="GridCell.Tab.0.center/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1920.988/-1440.23.1440.877@0.23.1920.988" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1878" height="252" key="GridCell.Tab.0.left/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state width="939" height="241" key="GridCell.Tab.0.left/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1920.988/-1440.23.1440.877@0.23.1920.988" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1878" height="252" key="GridCell.Tab.0.right/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state width="939" height="241" key="GridCell.Tab.0.right/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1920.988/-1440.23.1440.877@0.23.1920.988" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1398" height="183" key="GridCell.Tab.1.bottom/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="240" key="GridCell.Tab.1.bottom/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1398" height="210" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" />
+    <state width="1398" height="191" key="GridCell.Tab.1.bottom/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.1.bottom/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1398" height="129" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" />
+    <state width="1398" height="183" key="GridCell.Tab.1.bottom/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.1.bottom/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1398" height="210" key="GridCell.Tab.1.bottom/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1878" height="252" key="GridCell.Tab.1.bottom/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state width="939" height="241" key="GridCell.Tab.1.bottom/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.23.1920.988/-1440.23.1440.877@0.23.1920.988" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1398" height="183" key="GridCell.Tab.1.center/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="240" key="GridCell.Tab.1.center/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1398" height="210" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" />
+    <state width="1398" height="191" key="GridCell.Tab.1.center/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.1.center/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1398" height="129" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" />
+    <state width="1398" height="183" key="GridCell.Tab.1.center/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.1.center/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1398" height="210" key="GridCell.Tab.1.center/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1878" height="252" key="GridCell.Tab.1.center/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state width="939" height="241" key="GridCell.Tab.1.center/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.23.1920.988/-1440.23.1440.877@0.23.1920.988" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1398" height="183" key="GridCell.Tab.1.left/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="240" key="GridCell.Tab.1.left/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1398" height="210" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" />
+    <state width="1398" height="191" key="GridCell.Tab.1.left/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.1.left/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1398" height="129" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" />
+    <state width="1398" height="183" key="GridCell.Tab.1.left/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.1.left/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1398" height="210" key="GridCell.Tab.1.left/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1878" height="252" key="GridCell.Tab.1.left/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state width="939" height="241" key="GridCell.Tab.1.left/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.23.1920.988/-1440.23.1440.877@0.23.1920.988" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1398" height="183" key="GridCell.Tab.1.right/0.23.1440.808/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="240" key="GridCell.Tab.1.right/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="1398" height="210" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" />
+    <state width="1398" height="191" key="GridCell.Tab.1.right/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.1.right/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="1398" height="129" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" />
+    <state width="1398" height="183" key="GridCell.Tab.1.right/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state width="1398" height="210" key="GridCell.Tab.1.right/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="1398" height="210" key="GridCell.Tab.1.right/0.23.1440.814/-1920.23.1920.1057@0.23.1440.814" />
+    <state width="1878" height="252" key="GridCell.Tab.1.right/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state width="939" height="241" key="GridCell.Tab.1.right/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.23.1920.988/-1440.23.1440.877@0.23.1920.988" />
+    <state x="449" y="141" key="SettingsEditor" />
+    <state x="374" y="103" key="SettingsEditor/0.0.1600.860@0.0.1600.860" />
+    <state x="-1483" y="23" key="SettingsEditor/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state x="337" y="122" key="SettingsEditor/0.23.1440.822@0.23.1440.822" />
+    <state x="328" y="23" key="SettingsEditor/0.23.1440.823/-1920.23.1920.1057@0.23.1440.823" />
+    <state x="437" y="23" key="SettingsEditor/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state x="449" y="141" key="SettingsEditor/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state x="449" y="141" key="SettingsEditor/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state x="449" y="141" key="SettingsEditor/0.23.1920.984/-1440.23.1440.877@0.23.1920.984" />
+    <state x="449" y="141" key="SettingsEditor/0.23.1920.986/-1440.23.1440.877@0.23.1920.986" />
+    <state width="668" height="532" key="SwitcherDM" />
+    <state width="501" height="439" key="SwitcherDM/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state width="501" height="440" key="SwitcherDM/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state width="501" height="440" key="SwitcherDM/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state width="668" height="532" key="SwitcherDM/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state width="720" height="398" key="XDebugger.FullValuePopup" />
+    <state width="720" height="398" key="XDebugger.FullValuePopup/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state x="-1420" y="225" width="1920" height="981" key="com.intellij.ide.util.TipDialog" />
+    <state x="20" y="211" key="com.intellij.ide.util.TipDialog/0.23.1440.808/-1920.23.1920.1057@0.23.1440.808" />
+    <state x="-1893" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.811/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state x="20" y="212" key="com.intellij.ide.util.TipDialog/0.23.1440.811/-1920.23.1920.1057@0.23.1440.811" />
+    <state x="20" y="212" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" />
+    <state x="20" y="212" key="com.intellij.ide.util.TipDialog/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
+    <state x="20" y="212" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" />
+    <state x="-1893" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.814/-1920.23.1920.1057@-1920.23.1920.1057" />
+    <state x="20" y="215" key="com.intellij.ide.util.TipDialog/0.23.1440.823/-1920.23.1920.1057@0.23.1440.823" />
+    <state x="27" y="248" key="com.intellij.ide.util.TipDialog/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" />
+    <state x="27" y="251" key="com.intellij.ide.util.TipDialog/0.23.1920.977/1920.23.1440.877@0.23.1920.977" />
+    <state x="27" y="251" key="com.intellij.ide.util.TipDialog/0.23.1920.978/1920.23.1440.877@0.23.1920.978" />
+    <state x="-1420" y="225" key="com.intellij.ide.util.TipDialog/0.23.1920.980/-1440.23.1440.877@-1440.23.1440.877" />
+    <state x="-1420" y="225" key="com.intellij.ide.util.TipDialog/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state x="0" y="23" width="1920" height="981" key="com.intellij.ide.util.TipDialog/0.23.1920.982/-1440.23.1440.877@0.23.1920.982" />
+    <state x="27" y="251" key="com.intellij.ide.util.TipDialog/0.23.1920.988/1920.23.1440.877@0.23.1920.988" />
+    <state x="629" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" />
+    <state x="629" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state x="497" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" />
+    <state x="497" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1920.980/-1440.23.1440.877@0.23.1920.980" />
+    <state x="378" y="62" width="797" height="729" key="find.popup" />
+    <state x="378" y="62" width="797" height="729" key="find.popup/0.23.1440.812/-1920.23.1920.1057@0.23.1440.812" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -824,11 +858,6 @@
           <option name="timeStamp" value="327" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Main/PredictESN.py</url>
-          <line>130</line>
-          <option name="timeStamp" value="329" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Usefulfunctions/TestMemory.py</url>
           <line>7</line>
           <option name="timeStamp" value="341" />
@@ -858,6 +887,46 @@
           <line>30</line>
           <option name="timeStamp" value="368" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main/PredictNext.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearningHelper/trainningHelper.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearningHelper/trainningHelper.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main/PredictESN.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LogHelper/SavePredictESN.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LogHelper/SavePredictESN.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main/PredictESN.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main/EvaluateAccuracy.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -871,49 +940,71 @@
       <configuration name="PythonConfigurationType">
         <watch expression="GVar.act_to_int" language="Python" />
         <watch expression="GVar.int_to_act" language="Python" />
+        <watch expression="_inputSeq" />
+        <watch expression="resulTraceWithActList" />
+        <watch expression="X" />
+        <watch expression="name_to_int_set" />
+        <watch expression="_traceList" />
+        <watch expression="currentInputAct" />
+        <watch expression="dictMapActPer" />
+        <watch expression="listOfInputAct" />
+        <watch expression="this_X" />
+        <watch expression="this_yHat" />
+        <watch expression="this_yHat" />
+        <watch expression="potential_List_yhat" />
+        <watch expression="new_Seq" />
+        <watch expression="combineTrace" />
+        <watch expression="subyhat_decoded" />
+        <watch expression="original_subyhat" />
+        <watch expression="perList" />
+        <watch expression="fileName" />
+        <watch expression="currentInput" />
+        <watch expression="_inputTrace" />
+        <watch expression="encoded" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$Ex5.coverage" NAME="Ex5 Coverage Results" MODIFIED="1585215965479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice" />
-    <SUITE FILE_PATH="coverage/Python$TestTopRank.coverage" NAME="TestTopRank Coverage Results" MODIFIED="1586329867899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
-    <SUITE FILE_PATH="coverage/Python$Piplot_chart.coverage" NAME="Piplot chart Coverage Results" MODIFIED="1584103719425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
-    <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1583736848317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
-    <SUITE FILE_PATH="coverage/Python$Test.coverage" NAME="Test Coverage Results" MODIFIED="1585018525084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CommonHelper" />
-    <SUITE FILE_PATH="coverage/Python$SummaryAllActivity.coverage" NAME="SummaryAllActivity Coverage Results" MODIFIED="1582532491416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$ReadFile.coverage" NAME="ReadFile Coverage Results" MODIFIED="1583463952432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHelper" />
-    <SUITE FILE_PATH="coverage/Python$GetActPerStatistics.coverage" NAME="GetActPerStatistics Coverage Results" MODIFIED="1585384058021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$Query.coverage" NAME="Query Coverage Results" MODIFIED="1582528563790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQLHelper" />
-    <SUITE FILE_PATH="coverage/Python$ReadTextInFile.coverage" NAME="ReadTextInFile Coverage Results" MODIFIED="1583471641313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
-    <SUITE FILE_PATH="coverage/Python$PredictESN.coverage" NAME="PredictESN Coverage Results" MODIFIED="1589181791465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$EvaluateAccuracy.coverage" NAME="EvaluateAccuracy Coverage Results" MODIFIED="1590137210866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$GetTracesStatistics.coverage" NAME="GetTracesStatistics Coverage Results" MODIFIED="1585381358734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$Ex4.coverage" NAME="Ex4 Coverage Results" MODIFIED="1584260091961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice" />
-    <SUITE FILE_PATH="coverage/Python$PredictWithProportional.coverage" NAME="PredictWithProbability Coverage Results" MODIFIED="1585983330796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$GetTracesDetail.coverage" NAME="GetTracesDetail Coverage Results" MODIFIED="1585445986733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$TestMemory.coverage" NAME="TestMemory Coverage Results" MODIFIED="1589173533988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
-    <SUITE FILE_PATH="coverage/Python$Main.coverage" NAME="RunMaintainer Coverage Results" MODIFIED="1582530417285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$PredictPerWithAct.coverage" NAME="PredictPerWithAct Coverage Results" MODIFIED="1586246520170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$Train_2Feature.coverage" NAME="Train Coverage Results" MODIFIED="1584155434748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$GlobalVariables.coverage" NAME="GlobalVariables Coverage Results" MODIFIED="1583463093583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CommonHelper" />
     <SUITE FILE_PATH="coverage/Python$TestDFShift.coverage" NAME="TestDFShift Coverage Results" MODIFIED="1586240627490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
-    <SUITE FILE_PATH="coverage/Python$Encode_DecodeLSTM.coverage" NAME="Encode-DecodeLSTM Coverage Results" MODIFIED="1583394881086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
-    <SUITE FILE_PATH="coverage/Python$Train.coverage" NAME="Train Coverage Results" MODIFIED="1589869710235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$Common.coverage" NAME="Common Coverage Results" MODIFIED="1583918978407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CommonHelper" />
-    <SUITE FILE_PATH="coverage/Python$CountAverageAct.coverage" NAME="CountAverageAct Coverage Results" MODIFIED="1590221733266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$2D3Darray.coverage" NAME="2D3Darray Coverage Results" MODIFIED="1583298678969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
-    <SUITE FILE_PATH="coverage/Python$PredictESN__1_.coverage" NAME="PredictESN (1) Coverage Results" MODIFIED="1586332064045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$BarChart.coverage" NAME="BarChart Coverage Results" MODIFIED="1585212308465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChartHelper" />
-    <SUITE FILE_PATH="coverage/Python$Ex1.coverage" NAME="Ex1 Coverage Results" MODIFIED="1584255148287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice" />
-    <SUITE FILE_PATH="coverage/Python$PredictWithProbability.coverage" NAME="PredictWithProbability Coverage Results" MODIFIED="1586067156529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$KerasS2S.coverage" NAME="KerasS2S Coverage Results" MODIFIED="1583373300917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
-    <SUITE FILE_PATH="coverage/Python$Scheduler.coverage" NAME="Scheduler Coverage Results" MODIFIED="1585099826332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$CompareAccuracy.coverage" NAME="CompareAccuracy Coverage Results" MODIFIED="1589870244587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$trainningHelper.coverage" NAME="trainningHelper Coverage Results" MODIFIED="1585981867708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
+    <SUITE FILE_PATH="coverage/Python$TestMemory.coverage" NAME="TestMemory Coverage Results" MODIFIED="1589173533988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
+    <SUITE FILE_PATH="coverage/Python$BarChart.coverage" NAME="BarChart Coverage Results" MODIFIED="1585212308465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChartHelper" />
+    <SUITE FILE_PATH="coverage/Python$Train.coverage" NAME="Train Coverage Results" MODIFIED="1602292586929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$GetTracesDetail.coverage" NAME="GetTracesDetail Coverage Results" MODIFIED="1585445986733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$TrainingAccuracy.coverage" NAME="TrainingAccuracy Coverage Results" MODIFIED="1589768987550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$piplot_chart_2.coverage" NAME="piplot chart 2 Coverage Results" MODIFIED="1585289021143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
+    <SUITE FILE_PATH="coverage/Python$trainningHelper.coverage" NAME="trainningHelper Coverage Results" MODIFIED="1585981867708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
+    <SUITE FILE_PATH="coverage/Python$PredictESN.coverage" NAME="PredictESN Coverage Results" MODIFIED="1602469100899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Common.coverage" NAME="Common Coverage Results" MODIFIED="1583918978407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CommonHelper" />
+    <SUITE FILE_PATH="coverage/Python$2D3Darray.coverage" NAME="2D3Darray Coverage Results" MODIFIED="1583298678969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
+    <SUITE FILE_PATH="coverage/Python$PredictWithProportional.coverage" NAME="PredictWithProbability Coverage Results" MODIFIED="1585983330796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$PredictWithProbability.coverage" NAME="PredictWithProbability Coverage Results" MODIFIED="1586067156529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Ex1.coverage" NAME="Ex1 Coverage Results" MODIFIED="1584255148287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice" />
+    <SUITE FILE_PATH="coverage/Python$PredictPerWithAct.coverage" NAME="PredictPerWithAct Coverage Results" MODIFIED="1586246520170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Ex4.coverage" NAME="Ex4 Coverage Results" MODIFIED="1584260091961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice" />
+    <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1583736848317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
+    <SUITE FILE_PATH="coverage/Python$CompareAccuracy.coverage" NAME="CompareAccuracy Coverage Results" MODIFIED="1589870244587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Test.coverage" NAME="Test Coverage Results" MODIFIED="1585018525084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CommonHelper" />
+    <SUITE FILE_PATH="coverage/Python$Temp.coverage" NAME="Temp Coverage Results" MODIFIED="1606983952747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Encode_DecodeLSTM.coverage" NAME="Encode-DecodeLSTM Coverage Results" MODIFIED="1583394881086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
     <SUITE FILE_PATH="coverage/Python$Train_in2_out_1.coverage" NAME="Train_in2_out_1 Coverage Results" MODIFIED="1584063835604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
-    <SUITE FILE_PATH="coverage/Python$PredictNext.coverage" NAME="PredictNext Coverage Results" MODIFIED="1585980621893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$CountAverageAct.coverage" NAME="CountAverageAct Coverage Results" MODIFIED="1590221733266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$TestTopRank.coverage" NAME="TestTopRank Coverage Results" MODIFIED="1586329867899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
     <SUITE FILE_PATH="coverage/Python$ReadFile__1_.coverage" NAME="ReadFile (1) Coverage Results" MODIFIED="1583474368515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogHelper" />
+    <SUITE FILE_PATH="coverage/Python$PredictNext.coverage" NAME="PredictNext Coverage Results" MODIFIED="1585980621893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$GlobalVariables.coverage" NAME="GlobalVariables Coverage Results" MODIFIED="1583463093583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CommonHelper" />
+    <SUITE FILE_PATH="coverage/Python$Train_2Feature.coverage" NAME="Train Coverage Results" MODIFIED="1584155434748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Piplot_chart.coverage" NAME="Piplot chart Coverage Results" MODIFIED="1584103719425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
+    <SUITE FILE_PATH="coverage/Python$Main.coverage" NAME="RunMaintainer Coverage Results" MODIFIED="1582530417285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$SummaryAllActivity.coverage" NAME="SummaryAllActivity Coverage Results" MODIFIED="1582532491416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$ReadFile.coverage" NAME="ReadFile Coverage Results" MODIFIED="1583463952432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHelper" />
+    <SUITE FILE_PATH="coverage/Python$PredictESN__1_.coverage" NAME="PredictESN (1) Coverage Results" MODIFIED="1586332064045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Ex5.coverage" NAME="Ex5 Coverage Results" MODIFIED="1585215965479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice" />
+    <SUITE FILE_PATH="coverage/Python$Query.coverage" NAME="Query Coverage Results" MODIFIED="1582528563790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQLHelper" />
+    <SUITE FILE_PATH="coverage/Python$EvaluateAccuracy.coverage" NAME="EvaluateAccuracy Coverage Results" MODIFIED="1612251382609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Scheduler.coverage" NAME="Scheduler Coverage Results" MODIFIED="1585099826332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$ReadTextInFile.coverage" NAME="ReadTextInFile Coverage Results" MODIFIED="1583471641313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
+    <SUITE FILE_PATH="coverage/Python$GetActPerStatistics.coverage" NAME="GetActPerStatistics Coverage Results" MODIFIED="1585384058021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
   </component>
 </project>

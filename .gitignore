@@ -2,6 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# Tensorflow model
+*.h5
+# log file
+*.TXT
+
+#log file in XES
+*.xes
 
 # C extensions
 *.so

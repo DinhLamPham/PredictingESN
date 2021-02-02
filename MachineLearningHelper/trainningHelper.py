@@ -9,6 +9,7 @@ from keras.layers import LSTM
 from keras.layers import RepeatVector
 from keras.layers import TimeDistributed
 from keras.models import Sequential
+
 import platform
 
 from numpy import argmax
@@ -161,20 +162,20 @@ def lstm_get_data_from_n_in(_inputList, name_to_int_set, n_in):
     sequence = TraceSequenceToIntList(_inputList, name_to_int_set)
     encoded = one_hot_encode(sequence, len(name_to_int_set))
 
+
 def prepare_model(_name_to_int_set, _predictType):
-    model = None
     model = Sequential()
     _feature = int(GVar.feature)
     model.add(
         LSTM(150, batch_input_shape=(GVar.batch_size, GVar.n_in * _feature, GVar.encoded_length),
              stateful=True))
-    if _predictType == "Activity_Performer": # 2 feature output: actvity, performer => Ouput cell: N_step_out * ouputfeature
+    if _predictType == "Activity_Performer":
+        # 2 feature output: actvity, performer => Ouput cell: N_step_out * ouputfeature
         model.add(RepeatVector(GVar.n_out * 2))
     else: # Only one output feature: activity/performer => Ouputcell: N_step_out * 1
         model.add(RepeatVector(GVar.n_out * 1))
     model.add(LSTM(150, return_sequences=True, stateful=True))
     model.add(TimeDistributed(Dense(len(_name_to_int_set), activation='softmax')))
-    # model.add(TimeDistributed(Dense(GlobalVariables.n_out, activation='softmax')))
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
     return model
 
@@ -206,8 +207,8 @@ def trainning(model, train_log, _feature=1, _current_name_to_int_set={}):
 
         X, y = lstm_get_data_from_trace(trace, GVar.predicttype, _feature, _current_name_to_int_set, GVar.n_in, GVar.n_out)
 
-        history = model.fit(X, y, epochs=1, batch_size=GVar.batch_size, verbose=2,
-                            shuffle=True)
+        history = model.fit(X, y, epochs=10, batch_size=GVar.batch_size, verbose=2, shuffle=True)
+
         currentMax_acc = max(history.history['accuracy'])
         accuracy_list.append(history.history['accuracy'][0])
         loss_list.append(history.history['loss'][0])
@@ -235,6 +236,63 @@ def trainning(model, train_log, _feature=1, _current_name_to_int_set={}):
     model = None
     return accuracy_list, loss_list
 
+
+
+def trainningWithCSV(model, train_log_csv, _feature=1, _current_name_to_int_set={}):
+
+    es = EarlyStopping(monitor='accuracy', mode='max', patience=50)
+    mc = ModelCheckpoint(GVar.model_name, monitor='accuracy',
+                         mode='max', verbose=1, save_best_only=True)
+    countEpoch, maxVal_acc, totalTrace, accuracy_list, loss_list, trace = 0, 0, 0, [], [], []
+
+    if _feature == 1:
+        totalTrace = len(train_log)
+    if _feature == 2 or _feature == 1.5:
+        totalTrace = len(train_log.getAllTraceWithAct())
+
+    for i in range(totalTrace):
+        traceLength = 0
+        if _feature == 1:
+            trace = train_log[i]
+            traceLength = len(trace)
+        if _feature == 2 or _feature == 1.5:
+            trace = train_log.get_Trace_I_With_Combine(i)
+            traceLength = train_log.get_Trace_Length(i)
+
+        if traceLength < (GVar.n_in + GVar.n_out):
+            print("len of trace %d < in+out" % i)
+            continue
+
+        X, y = lstm_get_data_from_trace(trace, GVar.predicttype, _feature, _current_name_to_int_set, GVar.n_in, GVar.n_out)
+
+        history = model.fit(X, y, epochs=100, batch_size=GVar.batch_size, verbose=2, shuffle=True)
+
+        currentMax_acc = max(history.history['accuracy'])
+        accuracy_list.append(history.history['accuracy'][0])
+        loss_list.append(history.history['loss'][0])
+
+        if currentMax_acc > maxVal_acc:
+            maxVal_acc = currentMax_acc
+            countEpoch = 0
+        else:
+            countEpoch += 1
+        if countEpoch > GVar.maxRepeatStep:
+            print("Training should stop here, save model, then exist")
+            # Save modelFilename, name_to_int_set, int_to_name_set
+            # ------------_Temporary pause---------------------
+            SaveModel(model, accuracy_list)
+
+            # ------------_Temporary pause---------------------
+            return accuracy_list, loss_list
+
+        print(
+            "-predict %s --feature %s --- stepIn %s ---- stepOut %s ------------trace (%s / %s) ------ Count patient trace: %s"
+            " --- currentMax: %s" % (GVar.predicttype, _feature, GVar.n_in, GVar.n_out, i, totalTrace, countEpoch, maxVal_acc))
+        model.reset_states()
+
+    SaveModel(model, accuracy_list)
+    model = None
+    return accuracy_list, loss_list
 
 def SaveModel(_model, _accuracy_list):
     modelId = GVar.model_name + str(GVar.feature) + "feature_" + GVar.predicttype + str(GVar.n_in) + "_" \

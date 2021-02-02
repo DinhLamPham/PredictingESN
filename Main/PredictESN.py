@@ -1,3 +1,4 @@
+import sys
 from pathlib import Path
 
 from CommonHelper import GVar
@@ -20,6 +21,8 @@ countTryingFailed, totalResult = 0, 0
 resulTraceWithActList, resulTraceWithPerList, resulTraceWithTimeList = [], [], []
 
 
+
+
 def PredictActWithPro_Rank(_model, _inputSeq, _stepIn,
                            _name_to_int_set, _int_to_name_set, _predictMethod, _predictMethodVal, _maxStep):
     global countTryingFailed, totalResult, resulTraceWithActList
@@ -36,24 +39,25 @@ def PredictActWithPro_Rank(_model, _inputSeq, _stepIn,
             countTryingFailed += 1
             print("---------------------------------Can not reach END actvity.Try: ", countTryingFailed)
         else:
-            currentInput = _inputSeq[-_stepIn:]
-            this_X = encode_trace_sequence(currentInput, _name_to_int_set)
+            if len(_inputSeq) >= stepIn:
+                currentInput = _inputSeq[-_stepIn:]
+                this_X = encode_trace_sequence(currentInput, _name_to_int_set)
 
-            this_yHat = _model.predict(this_X, batch_size=1, verbose=0)
-            original_this_X = IntListToTraceSequence(one_hot_decode(this_X.reshape(stepIn * feature, -1)),
-                                                     _int_to_name_set)
-            if _predictMethod == "Probability":
-                this_yHat_decoded = multi_decode_with_probability(this_yHat, _predictMethodVal)
-            else:
-                this_yHat_decoded = multi_decode_with_top_rank(this_yHat, _predictMethodVal)
+                this_yHat = _model.predict(this_X, batch_size=1, verbose=0)
+                original_this_X = IntListToTraceSequence(one_hot_decode(this_X.reshape(stepIn * feature, -1)),
+                                                         _int_to_name_set)
+                if _predictMethod == "Probability":
+                    this_yHat_decoded = multi_decode_with_probability(this_yHat, _predictMethodVal)
+                else:
+                    this_yHat_decoded = multi_decode_with_top_rank(this_yHat, _predictMethodVal)
 
-            potential_List_yhat = IntListToTraceSequence(this_yHat_decoded, _int_to_name_set)
+                potential_List_yhat = IntListToTraceSequence(this_yHat_decoded, _int_to_name_set)
 
-            for y in potential_List_yhat.copy():
-                new_Seq = _inputSeq.copy()
-                new_Seq.append(y)
-                PredictActWithPro_Rank(_model, new_Seq, _stepIn,
-                                       _name_to_int_set, _int_to_name_set, _predictMethod, _predictMethodVal, _maxStep)
+                for y in potential_List_yhat.copy():
+                    new_Seq = _inputSeq.copy()
+                    new_Seq.append(y)
+                    PredictActWithPro_Rank(_model, new_Seq, _stepIn,
+                                           _name_to_int_set, _int_to_name_set, _predictMethod, _predictMethodVal, _maxStep)
 
 
 if platform.system() == 'Darwin':  # Mac OS
@@ -137,6 +141,8 @@ else:
 
         countPredictPer = 0
         for currentActList in resulTraceWithActList:
+            if len(currentActList) <= stepIn:
+                continue
             countPredictPer += 1
             print(
                 "-------Predicting performer for generated trace %d/%d" % (countPredictPer, len(resulTraceWithActList)))
@@ -146,7 +152,7 @@ else:
 
             #  PredictPer(logFile, _saveModel, actList, stepIn, name_to_int_set, int_to_name_set, perList):
             if saved_1F_Act_Per_Model is not None:
-                thisPerList = PredictPer(logFile, saved_1F_Act_Per_Model, currentActList,
+                thisPerList = PredictPer(saved_1F_Act_Per_Model, currentActList,
                                      stepIn, name_to_int_1F, int_to_name_1F, thisPerList)
             else:
                 [thisPerList.append("CommingSoon") for _ in range(stepIn, len(currentActList))]
@@ -163,10 +169,11 @@ else:
         for actList, perList, timeList in zip(resulTraceWithActList, resulTraceWithPerList, resulTraceWithTimeList):
             finalResult.append(ActPerToRawTrace(actList, perList, timeList, _keySeparateInside))
 
-        outputFileName = logFile.replace('.txt', '') + "__result.txt"
+        outputFileName = logFile.replace('.txt', '') + "_stepIn_" + str(stepIn) + "_" + str(predictMethodValue) +"_percent.txt"
         outputParameterValue = outputFileName
         SavePredictESNFile(outputFileName, _keyWordSeparate, _keySeparateInside, finalResult)
 
 # Update database
 UpdateFinishFuntionInDB(funcId, outputParameterValue)
 print("finished!")
+sys.exit()
