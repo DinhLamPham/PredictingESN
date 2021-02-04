@@ -1,4 +1,3 @@
-
 1. # **Introduction**
 # Prediction of Process-Aware Enterprise Social Networks 
 This repository is apart of the paper entitled "Prediction of Process-Aware Enterprise Social Networks and its Experiments Using Long Short-Term Memory Neural Network Models".
@@ -12,5 +11,3 @@ Repository structure:
 - Main/PredictNext.py: Predict next event information (activities and performers)
 - Main/PredictESN.py: Predict process-aware enterprise social network from the trained models.
 - Main/EvaluateAccuracy.py: Evaluate the trained model (using the last 30% of the data sets for validation)
-
->>>>>>> 68d55eabb5d6e500ee7d78d36410e9b5d83ab6f0
