@@ -197,9 +197,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="ProjectId" id="1Y0OR4F2Z6JuNjsmrK7jME7XAR9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -253,14 +257,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Temp">
+  <component name="RunManager" selected="Python.EvaluateAccuracy">
     <configuration name="EvaluateAccuracy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -343,9 +344,6 @@
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -385,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Temp" />
         <item itemvalue="Python.EvaluateAccuracy" />
+        <item itemvalue="Python.Train" />
+        <item itemvalue="Python.Temp" />
         <item itemvalue="Python.Listener" />
         <item itemvalue="Python.PredictESN" />
-        <item itemvalue="Python.Train" />
       </list>
     </recent_temporary>
   </component>
@@ -533,7 +531,7 @@
       <workItem from="1608706430610" duration="37000" />
       <workItem from="1611489391913" duration="913000" />
       <workItem from="1612247896810" duration="2185000" />
-      <workItem from="1612251214333" duration="436000" />
+      <workItem from="1612251214333" duration="13664000" />
     </task>
     <servers />
   </component>
@@ -893,16 +891,6 @@
           <option name="timeStamp" value="379" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MachineLearningHelper/trainningHelper.py</url>
-          <line>169</line>
-          <option name="timeStamp" value="382" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MachineLearningHelper/trainningHelper.py</url>
-          <line>207</line>
-          <option name="timeStamp" value="387" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Main/PredictESN.py</url>
           <line>172</line>
           <option name="timeStamp" value="393" />
@@ -926,6 +914,21 @@
           <url>file://$PROJECT_DIR$/Main/EvaluateAccuracy.py</url>
           <line>14</line>
           <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main/Train.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main/Train.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LogHelper/SaveTrainHistory.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="410" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -970,7 +973,7 @@
     <SUITE FILE_PATH="coverage/Python$KerasS2S.coverage" NAME="KerasS2S Coverage Results" MODIFIED="1583373300917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearningHelper" />
     <SUITE FILE_PATH="coverage/Python$TestMemory.coverage" NAME="TestMemory Coverage Results" MODIFIED="1589173533988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
     <SUITE FILE_PATH="coverage/Python$BarChart.coverage" NAME="BarChart Coverage Results" MODIFIED="1585212308465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChartHelper" />
-    <SUITE FILE_PATH="coverage/Python$Train.coverage" NAME="Train Coverage Results" MODIFIED="1602292586929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$Train.coverage" NAME="Train Coverage Results" MODIFIED="1612255017811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$GetTracesDetail.coverage" NAME="GetTracesDetail Coverage Results" MODIFIED="1585445986733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$TrainingAccuracy.coverage" NAME="TrainingAccuracy Coverage Results" MODIFIED="1589768987550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$piplot_chart_2.coverage" NAME="piplot chart 2 Coverage Results" MODIFIED="1585289021143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
@@ -1002,7 +1005,7 @@
     <SUITE FILE_PATH="coverage/Python$PredictESN__1_.coverage" NAME="PredictESN (1) Coverage Results" MODIFIED="1586332064045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$Ex5.coverage" NAME="Ex5 Coverage Results" MODIFIED="1585215965479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions/Matplotlib practice" />
     <SUITE FILE_PATH="coverage/Python$Query.coverage" NAME="Query Coverage Results" MODIFIED="1582528563790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQLHelper" />
-    <SUITE FILE_PATH="coverage/Python$EvaluateAccuracy.coverage" NAME="EvaluateAccuracy Coverage Results" MODIFIED="1612251382609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
+    <SUITE FILE_PATH="coverage/Python$EvaluateAccuracy.coverage" NAME="EvaluateAccuracy Coverage Results" MODIFIED="1612252326491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$Scheduler.coverage" NAME="Scheduler Coverage Results" MODIFIED="1585099826332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />
     <SUITE FILE_PATH="coverage/Python$ReadTextInFile.coverage" NAME="ReadTextInFile Coverage Results" MODIFIED="1583471641313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Usefulfunctions" />
     <SUITE FILE_PATH="coverage/Python$GetActPerStatistics.coverage" NAME="GetActPerStatistics Coverage Results" MODIFIED="1585384058021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main" />

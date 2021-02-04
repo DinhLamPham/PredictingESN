@@ -34,7 +34,7 @@ int_to_combine, combine_to_int = {}, {}
 name_to_int_FileName, int_to_name_FileName = "", ""
 
 trainedFolder = "TrainedModel"
-currentTrainingFile = r"0 Helpdesk.txt"
+currentTrainingFile = r"6_BPIC15_2.txt"
 model_name = currentTrainingFile.replace(".txt", "")
 # LSTM Parameter
 maxRepeatStep = 0

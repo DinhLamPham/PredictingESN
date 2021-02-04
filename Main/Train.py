@@ -25,7 +25,7 @@ start_time = time()
 file = GVar.currentTrainingFile
 logFolder = file.replace(".txt", "")
 
-GVar.maxRepeatStep = 30000
+GVar.maxRepeatStep = 500
 
 inputTrainingPara0 = [1, "Performer"]  # ok
 inputTrainingPara1 = [1, "Activity"]  # ok
@@ -35,7 +35,7 @@ inputTrainingPara3 = [2, "Performer"]  # ok
 
 inputTrainingPara5 = [1.5, "1F_Activity_Performer"]  # ok
 
-setOfPara = [inputTrainingPara1, inputTrainingPara5]
+setOfPara = [inputTrainingPara0, inputTrainingPara1, inputTrainingPara2, inputTrainingPara3]
 for para in setOfPara:
     inputTrainingPara = para
     GVar.Init_New_Log(inputTrainingPara)
@@ -43,7 +43,7 @@ for para in setOfPara:
 
     logSize = len(GVar.traceWithEventList)
     split_point = int(logSize * 0.7)
-    # split_point = 500
+    # split_point = 5
     train_log, test_log, train_combineLog, test_combineLog = None, None, None, None
     inputTrain, inputTest = None, None
     # Select dictionary
@@ -75,9 +75,9 @@ for para in setOfPara:
     SaveDictToFile(current_int_to_name_set,
                    str(Path(os.getcwd()).parent) + GetTrainedModelFolder(logFolder) + GVar.int_to_name_FileName)
 
-    for stepIn in [6]:
+    for stepIn in [1, 2, 3, 4, 5, 6]:
         GVar.n_in = stepIn
-        for stepOut in [1]:
+        for stepOut in [1, 2]:
             if stepIn < stepOut:
                 continue
             GVar.n_out = stepOut
