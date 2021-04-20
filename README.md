@@ -20,4 +20,4 @@ Repository structure:
 
 
 
-Note: If you want to reuse the repository for your logs, remember to convert your log to the format described in 'Main/0 Helpdesk.txt'
+Note: If you want to reuse the repository for your study, remember to convert your log to the format described in 'Main/0 Helpdesk.txt'
